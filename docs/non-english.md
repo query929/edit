@@ -1156,6 +1156,7 @@
 * [Escola Kids](https://escolakids.uol.com.br) - Kids Learning
 * [Atari2600](https://www.atari2600.com.br) - Browser Emulator
 * [Racha Cuca](https://rachacuca.com.br) - Puzzles / Trivia
+* [Arcadrome](https://arcadrome.com/br) - Online Games
 * [Jogorama](https://jogorama.com.br) - Game Index / Tips
 * [Dicionário MPB](https://dicionariompb.com.br) - Top Song Charts
 
